@@ -36,8 +36,8 @@ Ensure you have the following installed on your system:
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
-   cd LibraryManagementSystem
+   git clone https://github.com/CMushagalusa/Library-Management.git
+   cd Library-Management
    ```
 
 2. **Compile the project**
